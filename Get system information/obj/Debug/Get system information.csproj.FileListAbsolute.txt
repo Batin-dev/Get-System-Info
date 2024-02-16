@@ -1,0 +1,10 @@
+C:\Users\Batın Eymen\source\repos\Get system information\Get system information\bin\Debug\Get system information.exe.config
+C:\Users\Batın Eymen\source\repos\Get system information\Get system information\bin\Debug\Get system information.exe
+C:\Users\Batın Eymen\source\repos\Get system information\Get system information\bin\Debug\Get system information.pdb
+C:\Users\Batın Eymen\source\repos\Get system information\Get system information\bin\Debug\System.CodeDom.dll
+C:\Users\Batın Eymen\source\repos\Get system information\Get system information\bin\Debug\System.CodeDom.xml
+C:\Users\Batın Eymen\source\repos\Get system information\Get system information\obj\Debug\Get system information.csproj.AssemblyReference.cache
+C:\Users\Batın Eymen\source\repos\Get system information\Get system information\obj\Debug\Get system information.csproj.CoreCompileInputs.cache
+C:\Users\Batın Eymen\source\repos\Get system information\Get system information\obj\Debug\Get system information.csproj.CopyComplete
+C:\Users\Batın Eymen\source\repos\Get system information\Get system information\obj\Debug\Get system information.exe
+C:\Users\Batın Eymen\source\repos\Get system information\Get system information\obj\Debug\Get system information.pdb
